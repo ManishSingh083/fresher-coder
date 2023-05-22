@@ -1,16 +1,3 @@
-#!/usr/bin/env python3
-"""       turtle-example-suite:
-
-            tdemo_yinyang.py
-
-Another drawing suitable as a beginner's
-programming example.
-
-The small circles are drawn by the circle
-command.
-
-"""
-
 from turtle import *
 
 def yin(radius, color1, color2):
